@@ -25,7 +25,7 @@ O projeto **AluraBooks** é uma aplicação web que permite **visualizar** e **f
 
 ## Como usar:
 
-Para acessar, [clique aqui](https://fokus-alura-tone-6.vercel.app/).
+Para acessar, [clique aqui](https://alura-books-onet-6.vercel.app/).
 
 ## Instalação e Uso:
 
